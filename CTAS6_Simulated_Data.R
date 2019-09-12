@@ -1,6 +1,6 @@
 # Full Citation: Evidence for Gender Bias in the Measurement of Test Anxiety: Evaluation and Revisions to the Cognitive Test Anxiety Reduced Scale
-# Authors: 
-# Corresponding Author Contact:
+# Author: Michael Mack
+# Corresponding Author Contact: mack13@uw.edu
 # Date Created: Nov. 30, 2018; Last Updated: September 10, 2019
 # Description: This code: 1) Uses the lavaan package to conduct confirmatory factor analysis on CTAR response data, and 2) uses the userfriendlyscience package to compute scale reliability estimates.
 
