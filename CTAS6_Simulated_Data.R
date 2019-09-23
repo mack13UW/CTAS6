@@ -1,4 +1,3 @@
-# Full Citation: Evidence for Gender Bias in the Measurement of Test Anxiety: Evaluation and Revisions to the Cognitive Test Anxiety Reduced Scale
 # Author: Michael Mack
 # Corresponding Author Contact: mack13@uw.edu
 # Date Created: Nov. 30, 2018; Last Updated: September 10, 2019
