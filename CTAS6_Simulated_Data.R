@@ -8,7 +8,6 @@
 # mydata <- read.csv("fullset.csv", na.strings = c("", "NA"))
 k1 <- read.csv("k1.csv", na.strings = c("", "NA")) # N = 1,667
 k2 <- read.csv("k2.csv", na.strings = c("", "NA")) # N = 1,666
-source("Functions.R")
 source("Model-Specs.R")
 
 
